@@ -1,1 +1,1 @@
-# dc
+# Discord Auto-Delete Script
